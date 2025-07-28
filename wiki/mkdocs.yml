@@ -1,0 +1,9 @@
+site_name: Documentación de Calidad - ITC
+nav:
+  - Inicio: index.md
+  - Pruebas Automatizadas: pruebas_automatizadas.md
+  - Pruebas de Carga y Estrés: pruebas_carga_estres.md
+  - Gestión de Vulnerabilidades: gestion_vulnerabilidades.md
+theme:  
+  name: readthedocs
+  locale: es
